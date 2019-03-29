@@ -27,3 +27,19 @@ git 초기 등록
 잘 안되면 -f를 추가하면 강제로 업로드 가능
 
 > ex: git push origin master -f
+
+
+## Git 무시목록(.gitignore ) 설정
+
+일반적인 템플릿은 https://www.gitignore.io/ 에서 찾아서 입력
+
+폴더처리 
+config/api.js
+압축파일 처리
+*.zip
+
+이후 아래 커맨드 적용 
+
+git rm -r --cached .
+$ git add .
+$ git commit -m "fixed untracked files"
