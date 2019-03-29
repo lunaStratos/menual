@@ -40,6 +40,6 @@ config/api.js
 
 이후 아래 커맨드 적용 
 
-git rm -r --cached .
-$ git add .
-$ git commit -m "fixed untracked files"
+> git rm -r --cached .
+> $ git add .
+> $ git commit -m "fixed untracked files"
