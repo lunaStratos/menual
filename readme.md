@@ -8,17 +8,22 @@
 본 Git페이지는 안내를 위한 페이지입니다.
 저는 LunaStratos로 Java와 nodejs를 메인으로 사용하고 있습니다.
 
-Dev.LunaStratos@gmail.com으로 연락주시면 언제든지 답변을 해 드립니다.
+Dev.LunaStratos@gmail.com 으로 연락주시면 언제든지 답변을 해 드립니다.
 
 
 # 이력
 
+## Resume
+
+
+<a href="https://lunastratos.notion.site/Resume-bcd05c4a651d44099641ae1e8968135f">이력서 링크로 가기</a>
+
 ### 사용언어
 
- - 프로그래밍 : JAVA, ECMAScript, Python, NodeJs, Android
+ - 프로그래밍 : JAVA, ECMAScript, Python, NodeJs, Android(java, kotlin), React, Kotlin
  - MD: Html, Css, Markdown
- - DB: MySql, Oracle
- - Spring, Express
+ - DB: MySql, Oracle, MsSql, MariaDb
+ - Spring, Express, Webflux Coroutine
 
 ### 비개발공모전
 
@@ -30,8 +35,6 @@ Dev.LunaStratos@gmail.com으로 연락주시면 언제든지 답변을 해 드�
  - 2018 SK텔레콤 NUGU 1회 개발공모전 우수상 [건강마스터]
  - 2019 SK텔레콤 NUGU 2회 개발공모전 장려상 [교통마스터]
  - 2019 SK텔레콤 NUGU 3회 개발공모전 다작상 [챗봇 8개]
-
-
 
 
 ## 챗봇 제작방법
