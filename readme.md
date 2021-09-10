@@ -20,10 +20,11 @@ Dev.LunaStratos@gmail.com 으로 연락주시면 언제든지 답변을 해 드�
 
 ### 사용언어
 
- - 프로그래밍 : JAVA, ECMAScript, Python, NodeJs, Android(java, kotlin), React, Kotlin
+ - 프로그래밍 : JAVA, ECMAScript, Python, NodeJs, React, Kotlin, JQuery
+ - App : Android(java, kotlin), Flutter
  - MD: Html, Css, Markdown
- - DB: MySql, Oracle, MsSql, MariaDb
- - Spring, Express, Webflux Coroutine
+ - DB: MySql, Oracle, MsSql(with Procedure), MariaDb
+ - Spring boot, Express, Webflux Coroutine
 
 ### 비개발공모전
 
